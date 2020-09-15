@@ -6,6 +6,7 @@
 
 * [Методические рекомендации по проведению школьного этапа ВсОШ](https://github.com/alexbagirov/roi-svx-school-2020/raw/gh-pages/method_recommendations.pdf)
 * Памятка для организаторов
+* [Памятка для участников](https://docs.google.com/document/d/1Wzfod84aU-GpVGUFJdvARhkQ8LLx-w5kMxOQhFxdhjI/edit)
 
 ## Контакты
 
