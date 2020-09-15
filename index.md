@@ -4,7 +4,7 @@
 
 ## Документы
 
-* [Методические рекомендации по проведению школьного этапа ВсОШ](https://github.com/alexbagirov/roi-svx-school-2020/raw/gh-pages/method_recommendations.pdf)
+* [Методические рекомендации по проведению этапа](https://github.com/alexbagirov/roi-svx-school-2020/raw/gh-pages/method_recommendations.pdf)
 * [Памятка для организаторов](https://docs.google.com/document/d/1vz380WiW112YVmbTJjWZjO0B5OYD8QjJxCG4pkmCpcI/edit)
 * [Памятка для участников](https://docs.google.com/document/d/1Wzfod84aU-GpVGUFJdvARhkQ8LLx-w5kMxOQhFxdhjI/edit)
 
